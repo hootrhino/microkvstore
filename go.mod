@@ -1,4 +1,4 @@
-module mvkstore
+module github.com/hootrhino/microkvstore
 
 go 1.23.3
 
